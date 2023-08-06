@@ -1,0 +1,11 @@
+{
+  "name": "Flashbots-MEV-Share-CTF",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ret2basic/Flashbots-MEV-Share-CTF.git",
+  "author": "ret2basic.eth <ret2basic@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.7.0"
+  }
+}
